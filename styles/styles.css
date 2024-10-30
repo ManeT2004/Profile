@@ -47,7 +47,7 @@
     
 }
 .cover{
-    background-image: url('/styles/image/cover.jpeg');
+    background-image: url('cover.jpeg');
     background-position: center;
     background-size: cover;
     padding-top: 250px;
@@ -109,10 +109,11 @@ video{
 }
 
 .video{
-    margin-top: 30px;
+    margin-top: 40px;
 }
 .videos-me{
     font-size: 25px;
+    margin-top: 50px;
 }
 
 footer{
